@@ -1,6 +1,7 @@
 # Seattle-Airbnb-Market-Analysis
 ![](https://github.com/ObinnaIheanachor/Seattle-Airbnb-Market-Analysis/blob/master/ezgif.com-optimize.gif)
-Analysis of Kaggle's Seattle Airbnb Dataset for Udacity's Data Scientist Nanodegree (Project 1)
+
+## Analysis of Kaggle's Seattle Airbnb Dataset for Udacity's Data Scientist Nanodegree (Project 1)
 
 Using [Kaggle's Seattle Airbnb Open Dataset](https://www.kaggle.com/airbnb/notebook) with the aid of Python and Power BI, this project seeks to answer the following questions:
 * What is the average listing Price based on Location/Seattle Neighborhood?
