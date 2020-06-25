@@ -16,6 +16,9 @@ Visualization was created using Microsoft's Power BI Software.
 ## Power BI Report
 The Power BI report can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNWI1NmUxODgtNjRjYS00NTIxLTk2Y2UtNmYyNWYxZDIyZWZiIiwidCI6ImJjOWFmZGRhLTYwNGItNDU3ZS04ZDYxLWQ4YTNhNDNlNTUxZCIsImMiOjl9)
 
+## Medium Post
+A detailed post explaining the results of the analysis can be found here [](https://medium.com/@datascientistobi/visualizing-trends-in-seattle-airbnb-market-eabfcb165339) 
+
 
 ## License
 The contents of this repository are covered under the [MIT License](https://github.com/ObinnaIheanachor/Seattle-Airbnb-Market-Analysis/blob/master/LICENSE)
