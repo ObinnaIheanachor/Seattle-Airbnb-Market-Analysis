@@ -10,7 +10,7 @@ Using [Kaggle's Seattle Airbnb Open Dataset](https://www.kaggle.com/airbnb/noteb
 * What are some of the factors that determine price?
 
 ## Requirements
-You need to have **xgboost**, **scikit** learn alongside it's dependencies and standard anaconda packages to reproduce this analysis.
+You need to have **xgboost**, **scikit learn** alongside it's dependencies and standard anaconda packages to reproduce this analysis.
 Visualization was created using Microsoft's Power BI Software.
 
 ## Power BI Report
